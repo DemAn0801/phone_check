@@ -1,0 +1,11 @@
+[common]
+SECRET_KEY=django-insecure-ev!y$nz1217$iui&0n2i64gat=rlxz22bkptaev2wcg27frzt$
+DEBUG=True
+ALLOWED_HOSTS=*
+
+[database]
+POSTGRES_DB=phones_db
+POSTGRES_USER=root
+POSTGRES_PASSWORD=test
+POSTGRES_HOST=localhost
+POSTGRES_PORT=5433
